@@ -6,4 +6,6 @@ public class t3 {
   C2
   C3
   C4
+          A3
+          A3
 }
